@@ -2,7 +2,8 @@
 SQLyog Community v11.23 (64 bit)
 MySQL - 5.6.11-log : Database - msme
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
@@ -114,7 +115,7 @@ CREATE TABLE `user_details` (
 
 /*Data for the table `user_details` */
 
-insert  into `user_details`(`username`,`email`,`phone`,`company`,`address`) values ('ramesh','rameshkumartmca@gmail.com','9884858702','CcSoftwares','Anna Nagar West, Chennai');
+insert  into `user_details`(`username`,`email`,`phone`,`company`,`address`) values ('ramesh','ramesh@example.com','13456789','CcSoftwares','Anna Nagar West, Chennai');
 
 /*Table structure for table `user_login` */
 
